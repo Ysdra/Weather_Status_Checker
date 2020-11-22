@@ -20,4 +20,4 @@ and the UV index.
 This web application employs JQuery and the OpenWeather API to display the key weather data for the city inputted by the user. The styling attributes are handled by Bootstrap and a style link to font awesome. 
 
 ## Screenshot of Live Web Application:
-![image] (https://github.com/Ysdra/Weather_Status_Checker/blob/main/Weather%20Application%20Live%20Image.PNG)
+![image](https://github.com/Ysdra/Weather_Status_Checker/blob/main/Weather%20Application%20Live%20Image.PNG)
