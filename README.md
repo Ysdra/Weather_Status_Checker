@@ -1,7 +1,7 @@
 # Weather_Status_Checker
 A web application that employs several OpenWeather APIs to check the weather's status. 
 
-## Live Application Link: 
+## Live Application Link: https://ysdra.github.io/Weather_Status_Checker/
 
 ## App Description & User's Guide:
 This is a basic weather app that shows the user a 5 day weather forecast for the city selected. It will display key information such as wind speed, temperature, humidity, 
