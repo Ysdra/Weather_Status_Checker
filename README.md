@@ -21,3 +21,9 @@ This web application employs JQuery and the OpenWeather API to display the key w
 
 ## Screenshot of Live Web Application:
 ![image](https://github.com/Ysdra/Weather_Status_Checker/blob/main/Weather%20Application%20Live%20Image.PNG)
+
+## License 
+MIT © 
+
+## Contact Info
+Please reach out to Ysdra on Github for more information 
